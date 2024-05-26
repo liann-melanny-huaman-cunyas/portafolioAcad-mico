@@ -1,2 +1,2 @@
-# PortafolioAcad-mico
+# PortafolioAcademico
 Portafolio Académico
